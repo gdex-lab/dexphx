@@ -17,6 +17,7 @@ defmodule DexphxWeb.Router do
     pipe_through :browser
 
     get "/", PageController, :index
+    get "/dex", PageController, :dex
   end
 
   # Other scopes may use custom stacks.
