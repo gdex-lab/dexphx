@@ -5,9 +5,12 @@ To start up the Phoenix server:
 
   * `mix phx.server`
 
-Now you can visit [`localhost:4000`](http://localhost:4000) from your browser.
+## Routes
 
-Still need to prep for production [check deployment guide](https://hexdocs.pm/phoenix/deployment.html).
+  * `/` will display the Phoenix Web Server default page
+  * `/dex` will display a fandom page about Dexter, the cartoon character
+
+The port is set to 4000 when running locally
 
 ## Resources
 
