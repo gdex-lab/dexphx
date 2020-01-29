@@ -1,5 +1,5 @@
 # Dexphx
-Base Elixir/Phoenix Web Server
+Elixir/Phoenix Web Server
 
 To start up the Phoenix server:
 
